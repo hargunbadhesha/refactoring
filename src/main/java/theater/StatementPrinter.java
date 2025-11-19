@@ -153,3 +153,4 @@ public class StatementPrinter {
                 .format((double) amount / Constants.PERCENT_FACTOR);
     }
 }
+
